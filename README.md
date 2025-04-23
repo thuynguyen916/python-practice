@@ -2,7 +2,9 @@
 
 This repository contains weekly assignments completed for my Python Programming course DSC 430 during Spring 2025. Each script demonstrates core Python concepts such as functions, control flow, loops, user input handling, and basic object-oriented design.
 
-## 📚 Projects Included
+## 📚 Assignments
+
+Each assignment includes a link to a Loom video where I walk through the code and explain how it works.
 
 ### Week 1
 - **Grading Logic (`week1-101.py`)**  
