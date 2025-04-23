@@ -34,3 +34,8 @@ Each assignment includes a link to a Loom video where I walk through the code an
 These are beginner-level practice scripts and part of my journey to learn Python. I plan to build more advanced projects over time.
 
 ---
+
+**Author:** Thuy Nguyen  
+**Term:** Spring 2025  
+**Project Type:** Individual school homework (DePaul University)  
+**Tools:** Python
