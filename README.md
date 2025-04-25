@@ -6,23 +6,37 @@ This repository contains weekly assignments completed for my Python Programming 
 
 Each assignment includes a link to a Loom video where I walk through the code and explain how it works.
 
-### Week 1
+### Week 1: Python Review
 - **Grading Logic (`week1-101.py`)**  
   Simulates how homework is graded using conditional checks and deduction rules for late submissions.
 
 - **Coprime Test (`week1-102.py`)**  
   Asks users for two numbers and determines if they are coprime by comparing their prime factors.
 
-### Week 2
+### Week 2: Algorithm Design
 - **Stem-and-Leaf Plot Generator (`A0201.py`)**  
   Reads numeric datasets and displays them in a stem-and-leaf format, grouped by tens and units.
 
-### Week 3
+### Week 3: Best Practices
 - **Goldbach's Conjecture Check (`A0301.py`)**  
   For every even number between 4 and 100, finds one pair of prime numbers that sum to it — exploring Goldbach's Conjecture.
 
 - **Happy Number Check (`A0302.py`)**
   Check whether the given number is happy or sad and return the list of all numbers visited in the verification process.
+
+### Week 4: Algorithm Development and Analysis
+
+### Week 5: Object-Oriented Programming
+
+### Week 6: Managing Data
+
+### Week 7: Monte Carlo
+
+### Week 8: Numeric Python Packages
+
+### Week 9: Matplotlib Visualization
+
+### Week 10: Software Engineering Tips
 
 
 ## 🧠 Skills Practiced
