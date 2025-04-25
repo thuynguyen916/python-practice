@@ -18,8 +18,12 @@ Each assignment includes a link to a Loom video where I walk through the code an
   Reads numeric datasets and displays them in a stem-and-leaf format, grouped by tens and units.
 
 ### Week 3
-- **Goldbach's Conjecture Check (`A0301-Thuy Nguyen.py`)**  
+- **Goldbach's Conjecture Check (`A0301.py`)**  
   For every even number between 4 and 100, finds one pair of prime numbers that sum to it — exploring Goldbach's Conjecture.
+
+- **Happy Number Check (`A0302.py`)**
+  Check whether the given number is happy or sad and return the list of all numbers visited in the verification process.
+
 
 ## 🧠 Skills Practiced
 - Python basics (variables, loops, functions)
@@ -29,12 +33,12 @@ Each assignment includes a link to a Loom video where I walk through the code an
 - Data cleaning and formatting
 - Prime number and factor logic
 - Object-oriented programming
+- Errors and exceptions
 
 ## 📌 Notes
-These are beginner-level practice scripts and part of my journey to learn Python. I plan to build more advanced projects over time.
+- These are practice scripts from my second Python class, documenting the early stages of my Python learning journey. I plan to create more advanced projects as I continue to grow.
 
 ---
-
 **Author:** Thuy Nguyen  
 **Term:** Spring 2025  
 **Project Type:** Individual school homework (DePaul University)  
