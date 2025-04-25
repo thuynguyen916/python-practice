@@ -55,5 +55,5 @@ Each assignment includes a link to a Loom video where I walk through the code an
 ---
 **Author:** Thuy Nguyen  
 **Term:** Spring 2025  
-**Project Type:** Individual school homework (DePaul University)  
+**Project Type:** Individual schoolwork (DePaul University)  
 **Tools:** Python
