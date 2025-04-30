@@ -28,7 +28,7 @@ Each assignment includes a link to a Loom video where I walk through the code an
 - **Goldbach Deuce (`A0401.py`)**  
   Determine if any two numbers in a randomly generated list sum to a target value using an efficient O(n log n) binary search approach.
 
-- **Human Pyramid (`A0402.py`)**
+- **Human Pyramid (`A0402.py`)**  
   Recursively compute the weight supported by a person in a human pyramid, where each individual splits weight evenly between those below.
   
 ### Week 5: Object-Oriented Programming
