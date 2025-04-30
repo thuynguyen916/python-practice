@@ -25,7 +25,12 @@ Each assignment includes a link to a Loom video where I walk through the code an
   Check whether the given number is happy or sad and return the list of all numbers visited in the verification process.
 
 ### Week 4: Algorithm Development and Analysis
+- **Goldbach Deuce (`A0401.py`)**  
+  Determine if any two numbers in a randomly generated list sum to a target value using an efficient O(n log n) binary search approach.
 
+- **Human Pyramid (`A0402.py`)**
+  Recursively compute the weight supported by a person in a human pyramid, where each individual splits weight evenly between those below.
+  
 ### Week 5: Object-Oriented Programming
 
 ### Week 6: Managing Data
